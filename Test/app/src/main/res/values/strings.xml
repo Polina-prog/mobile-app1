@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="btn1">Поменять цвет</string>
+    <string name="btn2">Вперёд</string>
+    <string name="btn3">Поменять текст</string>
+    <string name="btn4">Назад</string>
+</resources>
